@@ -31,3 +31,9 @@ This project is an advanced system for optimizing AI prompts using multiple spec
 ### approximate workflow diagram
 
 ![workflow diagram](https://raw.githubusercontent.com/ycvk/MultiAgent-Prompt/refs/heads/master/workflow.svg?sanitize=true)
+
+---
+
+## Functions of agents
+
+![workflow diagram](https://raw.githubusercontent.com/ycvk/MultiAgent-Prompt/refs/heads/master/agents.svg?sanitize=true)
